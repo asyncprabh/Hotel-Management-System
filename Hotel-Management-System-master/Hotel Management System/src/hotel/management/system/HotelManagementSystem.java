@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package hotel.management.system;
 
 import java.awt.*;
@@ -16,7 +12,7 @@ public class HotelManagementSystem extends JFrame implements ActionListener{
         
         public HotelManagementSystem() {
 		
-                setSize(1366,430);          // setContentPane(300,300,1366,390);   frame size
+                setSize(1366,430);          
                 setLayout(null);
                 setLocation(300,300);
 
